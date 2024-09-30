@@ -93,7 +93,7 @@ function Footer() {
                 <li>
                   <Link
                     className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                    to="/"
+                    to="/about"
                   >
                     Customer Support
                   </Link>
@@ -123,12 +123,20 @@ function Footer() {
                     Privacy Policy
                   </Link>
                 </li>
-                <li>
+                <li className="mb-4">
                   <Link
                     className=" text-base font-medium text-gray-900 hover:text-gray-700"
                     to="/"
                   >
                     Licensing
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    className=" text-base font-medium text-gray-900 hover:text-gray-700"
+                    to="/"
+                  >
+                    email: mohdatyab12@gmail.com
                   </Link>
                 </li>
               </ul>

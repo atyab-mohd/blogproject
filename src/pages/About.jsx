@@ -75,50 +75,6 @@ function About() {
         </div>
       </section>
     </div>
-    // <div>
-    //   <h1>About the Project</h1>
-    //   <div>
-    //     Welcome to our blogging platform, a dynamic web application designed for
-    //     passionate writers and avid readers alike. This fully-fledged web app
-    //     empowers registered users to explore a vibrant community of blogs while
-    //     providing the tools to create, manage, and share their own posts
-    //     effortlessly.
-    //   </div>
-    //   <h1>Key Features:</h1>
-    //   <ul>
-    //     <li>
-    //       User Registration & Login: Seamlessly register and log in to access
-    //       personalized features.
-    //     </li>
-    //     <li>
-    //       Blog Exploration: Discover a variety of blog posts through visually
-    //       appealing preview cards on the homepage. Each card offers a glimpse
-    //       into the content, inviting you to dive deeper.
-    //     </li>
-    //     <li>
-    //       Read & Engage: Click on any blog card to view the complete article.
-    //       Engage with diverse topics and insights shared by fellow users.
-    //     </li>
-    //     <li>
-    //       Personal Blog Management: As a registered user, you can create,
-    //       update, and delete your own blog posts. Whether you're sharing your
-    //       thoughts, experiences, or expertise, managing your content is just a
-    //       click away.
-    //     </li>
-    //     <li>
-    //       Edit & Delete Options: If you authored a blog post, you’ll see options
-    //       to easily edit or delete it from the blog view. This ensures that you
-    //       have full control over your content.
-    //     </li>
-    //   </ul>
-    //   <p>
-    //     Our platform is designed with user experience in mind, ensuring that
-    //     navigating through blogs and managing your posts is intuitive and
-    //     enjoyable. Whether you’re a seasoned blogger or new to the writing
-    //     world, this app provides the perfect space to express yourself and
-    //     connect with others. Join us today and start sharing your story!
-    //   </p>
-    // </div>
   );
 }
 
